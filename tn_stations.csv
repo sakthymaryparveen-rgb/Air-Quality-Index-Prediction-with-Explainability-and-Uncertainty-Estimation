@@ -1,0 +1,45 @@
+Location_ID,Station_Name,district,Latitude,Longitude,Provider,District
+3409343,"Keelapalur, Ariyalur - TNPCB",Ariyalur,11.06825,79.07033,CPCB,Ariyalur
+358627,"Crescent University, Chengalpattu - TNPCB",Chengalpattu,12.8777316,80.0834807,CPCB,Chengalpattu
+5558,"Alandur Bus Depot, Chennai - CPCB",Chennai,12.9099161,80.1076538,caaqm,Chennai
+3409319,"Alandur Bus Depot, Chennai - CPCB",Chennai,12.9099161,80.1076538,CPCB,Chennai
+11581,"Arumbakkam, Chennai - TNPCB",Chennai,13.0664,80.2112,CPCB,Chennai
+8558,Chennai,India,13.08784,80.278475,AirNow,Chennai
+11579,"Kodungaiyur, Chennai - TNPCB",Chennai,13.1278,80.2642,CPCB,Chennai
+6920,"Manali Village, Chennai - TNPCB",Chennai,11.258244,77.552429,caaqm,Chennai
+10780,"Manali Village, Chennai - TNPCB",Chennai,13.1662,80.2584,CPCB,Chennai
+2586,"Manali, Chennai - CPCB",Chennai,13.164544,80.26285,CPCB,Chennai
+12046,"Perungudi, Chennai - TNPCB",Chennai,12.9533,80.2357,CPCB,Chennai
+11578,"Royapuram, Chennai - TNPCB",Chennai,13.1036,80.2909,CPCB,Chennai
+2461,US Diplomatic Post: Chennai,Unknown,13.052371,80.251932,StateAir Chennai,Chennai
+5655,"Velachery Res. Area, Chennai - CPCB",Chennai,13.0052189,80.2398125,CPCB,Chennai
+358457,"PSG College of Arts and Science, Coimbatore - TNPCB",Coimbatore,11.0328,77.0349,CPCB,Coimbatore
+8914,"SIDCO Kurichi, Coimbatore - TNPCB",Coimbatore,10.942451,76.978996,CPCB,Coimbatore
+3409354,"Kudikadu, Cuddalore - TNPCB",Cuddalore,11.6829898,79.7532099,CPCB,Cuddalore
+3409346,"Semmandalam, Cuddalore - TNPCB",Cuddalore,11.7637683,79.7499835,CPCB,Cuddalore
+358453,"Mendonsa Colony, Dindigul - TNPCB",Dindigul,10.358535,77.984321,CPCB,Dindigul
+45008,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",Gummidipoondi,13.4127,80.1081,CPCB,Gummidipoondi
+358454,"SIPCOT Phase-1, Hosur - TNPCB",Hosur,12.746998,77.813811,caaqm,Hosur
+3409347,"SIPCOT Phase-1, Hosur - TNPCB",Hosur,12.746998,77.813811,CPCB,Hosur
+3409353,"Kilambi, Kanchipuram - TNPCB",Kanchipuram,12.864618,79.659968,CPCB,Kanchipuram
+3409357,"Kamadenu Nagar, Karur - TNPCB",Karur,10.96782,78.080882,CPCB,Karur
+3409348,"Uchapatti, Madurai - TNPCB",Madurai,9.865935,78.022669,CPCB,Madurai
+3409350,"Velippalayam, Nagapattinam - TNPCB",Nagapattinam,10.798548,79.838212,CPCB,Nagapattinam
+3774726,"Ponnusamy Nagar, Namakkal - TNPCB",Namakkal,11.273992,78.163545,,Namakkal
+358450,"Bombay Castel, Ooty - TNPCB",Ooty,11.4068288,76.7138973,CPCB,Ooty
+3409356,"Bharathidasan University, Palkalaiperur - TNPCB",Palkalaiperur,10.681158,78.741746,CPCB,Palkalaiperur
+3409527,"SIPCOT Industrial Park, Perundurai - TNPCB",Perundurai,11.258242,77.552761,CPCB,Perundurai
+3409516,"SIPCOT Nathampannai, Pudukottai - TNPCB",Pudukottai,10.423417,78.784889,CPCB,Pudukottai
+358452,"Chalai Bazaar, Ramanathapuram - TNPCB",Ramanathapuram,9.36399,78.831977,CPCB,Ramanathapuram
+3409351,"VOC Nagar_SIPCOT, Ranipet - TNPCB",Ranipet,12.952707,79.30394,CPCB,Ranipet
+358455,"Sona College of Technology, Salem - TNPCB",Salem,11.679111,78.125052,caaqm,Salem
+3409355,"Sona College of Technology, Salem - TNPCB",Salem,11.679111,78.125052,CPCB,Salem
+3409345,"Parisutham Nagar, Thanjavur - TNPCB",Thanjavur,10.7654824,79.1389968,CPCB,Thanjavur
+11580,"Meelavittan, Thoothukudi - TNPCB",Thoothukudi,8.816428,78.099039,CPCB,Thoothukudi
+3409358,"St Joseph College, Tiruchirappalli - TNPCB",Tiruchirappalli,10.830158,78.691849,CPCB,Tiruchirappalli
+3409344,"Municipal Corporation Office, Tirunelveli - TNPCB",Tirunelveli,8.728442,77.6962,CPCB,Tirunelveli
+358448,"Kumaran College, Tirupur - TNPCB",Tirupur,11.0973603,77.3228673,CPCB,Tirupur
+378,Alandur Bus Depot,Unknown,12.99711389,80.19151667,CPCB,Unknown
+358451,"Vasanthapuram, Vellore - TNPCB",Vellore,12.909494,79.131861,caaqm,Vellore
+3409349,"Vasanthapuram, Vellore - TNPCB",Vellore,12.909494,79.131861,CPCB,Vellore
+3409517,"Collectorate Office, Virudhunagar - TNPCB",Virudhunagar,9.559382,77.948828,CPCB,Virudhunagar
